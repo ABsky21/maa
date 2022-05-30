@@ -58,9 +58,9 @@
         c._pli = b + '/translate_static/img/loading.gif';
         c._plla = h + '/translate_a/l';
         c._pmi = b + '/translate_static/img/mini_google.png';
-        c._ps =  'https://cdn.jsdelivr.net/gh/damengzhu/js1@main/translateelement.css';
+        c._ps =  'https://fastly.jsdelivr.net/gh/damengzhu/js1@main/translateelement.css';
         c._puh = 'translate.google.com';
         _loadCss(c._ps);
-        _loadJs('https://cdn.jsdelivr.net/gh/damengzhu/js1@main/main_zh-CN.js');
+        _loadJs('https://fastly.jsdelivr.net/gh/damengzhu/js1@main/main_zh-CN.js');
     })();
 })();
