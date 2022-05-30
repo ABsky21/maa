@@ -113,7 +113,7 @@
         }
         if (g._cjlc) g._cjlc(g._pas + g._pah + A);
         else {
-            var C ='https://cdn.jsdelivr.net/gh/damengzhu/js1@main/element_main.js',
+            var C ='https://fastly.jsdelivr.net/gh/damengzhu/js1@main/element_main.js',
             D = document.createElement("script");
             D.type = "text/javascript";
             D.charset = "UTF-8";
